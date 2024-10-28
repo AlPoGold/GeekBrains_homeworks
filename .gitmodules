@@ -1,0 +1,33 @@
+[submodule "ClientServerGB-sharp"]
+	path = ClientServerGB-sharp
+	url = https://github.com/AlPoGold/ClientServerGB-sharp
+[submodule "CountingSort"]
+	path = CountingSort
+	url = https://github.com/AlPoGold/CountingSort
+[submodule "GB_c_sharp_seminar_1_hw"]
+	path = GB_c_sharp_seminar_1_hw
+	url = https://github.com/AlPoGold/GB_c_sharp_seminar_1_hw
+[submodule "GB_c_sharp_seminar_2_hw"]
+	path = GB_c_sharp_seminar_2_hw
+	url = https://github.com/AlPoGold/GB_c_sharp_seminar_2_hw
+[submodule "C-sharp_seminar3_homewok"]
+	path = C-sharp_seminar3_homewok
+	url = https://github.com/AlPoGold/C-sharp_seminar3_homewok
+[submodule "c-sharp-homework-4"]
+	path = c-sharp-homework-4
+	url = https://github.com/AlPoGold/c-sharp-homework-4
+[submodule "c-sharp-homework-5"]
+	path = c-sharp-homework-5
+	url = https://github.com/AlPoGold/c-sharp-homework-5
+[submodule "c-sharp-homework-6"]
+	path = c-sharp-homework-6
+	url = https://github.com/AlPoGold/c-sharp-homework-6
+[submodule "c-sharp-homework-7"]
+	path = c-sharp-homework-7
+	url = https://github.com/AlPoGold/c-sharp-homework-7
+[submodule "c-sharp-homework-8"]
+	path = c-sharp-homework-8
+	url = https://github.com/AlPoGold/c-sharp-homework-8
+[submodule "c-sharp-homework-9"]
+	path = c-sharp-homework-9
+	url = https://github.com/AlPoGold/c-sharp-homework-9
